@@ -1,10 +1,13 @@
-## Hi I'm Ahasanul Haque Abir <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm MOHAMMED ZIAD HASSAN <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend most of time reading documentations or watching tutorials about coding.
+I'm Mohammed Ziad Hassan, an avid learner and programming enthusiast. I spend most of time reading documentations or watching tutorials about coding.
 
 :incoming_envelope: Contact me here!:
 
-[![Twitter Badge](https://img.shields.io/badge/-@Rumie089-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Rumie089)](https://twitter.com/Rumie089) [![Linkedin Badge](https://img.shields.io/badge/-mahbubzamanrumie-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahbub-zaman-rumie/) [![Mail Badge](https://img.shields.io/badge/-@rumieo-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/rumieo/) [![Mail Badge](https://img.shields.io/badge/-syed.mahbub.uz.zaman@g.bracu.ac.bd-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:syed.mahbub.uz.zaman@g.bracu.ac.bd)
+[![Twitter Badge](https://img.shields.io/badge/-@Ziad-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/i/flow/login)](https://twitter.com/i/flow/login) 
+[![Linkedin Badge](https://img.shields.io/badge/-ziad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/) 
+[![Mail Badge](https://img.shields.io/badge/-@ziad393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/) 
+[![Mail Badge](https://img.shields.io/badge/-mohammedziadhassan@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohammedziadhassan@gmail.com)
 
 #### About Me:
 - 🧑‍🎓 I have completed my undergraduate in Computer Software and Engineering from Brac University. :bangladesh: 
@@ -45,8 +48,9 @@ I'm Ahasanul Haque Abir, an avid learner and programming enthusiast. I spend mos
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
-
+ <!--- 
 Curriculum Vitae: :memo: [SyedMahbubuzZaman](https://github.com/syedmahbubuzzaman/CV/blob/main/SyedMahbubuzZaman.pdf)
+ --->
 
 #### Profile Visits ![visitors](https://visitor-badge.glitch.me/badge?page_id=m-ziadh.m-ziadh)
 
