@@ -11,8 +11,9 @@ I'm Mohammed Ziad Hassan, an avid learner and programming enthusiast. I spend mo
 #### About Me:
 - 🧑‍🎓 I have completed my undergraduate in Computer Software and Engineering from Brac University. :bangladesh: 
 - :coffee: I had extensive training in Java during my undergrad.
-- :snake: I enjoy coding in python as it's simple but scalable.
-- :desktop_computer: I look forward to become a data analyst in the near future.
+- ✍️: I know Flutter & build some app using Flutter.
+- :snake: I enjoy coding in java as it's well structured.
+- :desktop_computer: I look forward to become a app developer in the near future.
 - :joystick: I love to play FPS games.
 
 #### Interests:
@@ -21,30 +22,32 @@ I'm Mohammed Ziad Hassan, an avid learner and programming enthusiast. I spend mo
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%20Sharp-43853D?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0095D5?&style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-100000?style=for-the-badge&logo=structured-query-languageL&logoColor=white)
 ![Html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23D00000.svg?style=for-the-badge&logo=php&logoColor=white)
 
 
 ## Framework I know:
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%2320232a.svg?style=for-the-badge&logo=android-studio&logoColor=%2361DAFB)
 ![Spyder](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Juptyr](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 ## ML-Frameworks I used:
-
+![DCGAN](https://img.shields.io/badge/DCGAN-%23D00000.svg?style=for-the-badge&logo=DCGAN&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![DenseNet201](https://img.shields.io/badge/DenseNet201-%23EE4C2C.svg?style=for-the-badge&logo=DenseNet201&logoColor=white)
+![EfficientNetB0](https://img.shields.io/badge/EfficientNetB0-%23F7931E.svg?style=for-the-badge&logo=EfficientNetB0&logoColor=white)
+![ResNet50](https://img.shields.io/badge/ResNet50-%230C55A5.svg?style=for-the-badge&logo=ResNet50&logoColor=%white)
+![Inception V3](https://img.shields.io/badge/Inception%20V3-%23FF6F00.svg?style=for-the-badge&logo=Inception-V3&logoColor=white)
+![VGG16 ](https://img.shields.io/badge/VGG16-%230C55A5.svg?style=for-the-badge&logo=VGG16&logoColor=%white)
+![Xception](https://img.shields.io/badge/Xception-%23F7931E.svg?style=for-the-badge&logo=Xception&logoColor=%white)
+![Transfer Learning](https://img.shields.io/badge/Transfer%20Learning-%230C55A5.svg?style=for-the-badge&logo=Transfer-Learning&logoColor=%white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23D00000.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
  <!--- 
