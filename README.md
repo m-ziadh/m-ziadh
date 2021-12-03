@@ -4,9 +4,9 @@ I'm Mohammed Ziad Hassan, an avid learner and programming enthusiast. I spend mo
 
 :incoming_envelope: Contact me here!:
 
-[![Linkedin Badge](https://img.shields.io/badge/-ziad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.instagram.com/m_ziadhassan/) 
-[![Mail Badge](https://img.shields.io/badge/-@ziad393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/) 
 [![Mail Badge](https://img.shields.io/badge/-mohammedziadhassan@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohammedziadhassan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ziad-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-ziad-hassan-a999b4143) 
+[![Mail Badge](https://img.shields.io/badge/-@ziad-393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/m_ziadhassan/) 
 
 #### About Me:
 - 🧑‍🎓 I have completed my undergraduate in Computer Software and Engineering from Brac University. :bangladesh: 
